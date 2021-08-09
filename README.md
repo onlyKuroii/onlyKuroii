@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, I'm Yuuto <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=false&height=30&lines=A+Brazillian+Developer;Passionate+about+coding;Always+trying+to+learn+new+things"></a>
+</p>
 
-<!--
-**onlyKuroii/onlyKuroii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - 🔭 I’m currently working on "Project Voyage"
+  - 🌱 I’m currently learning TypeScript 
+  - ⚡ Fun fact: I like to listen to musica and read books
 
-Here are some ideas to get you started:
+### More about me
+- 👤 Name: Weslley
+- ♂ Gender: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onlyKuroii&show_icons=true&theme=radical&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlyKuroii&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
